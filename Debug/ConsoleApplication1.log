@@ -1,0 +1,9 @@
+﻿  FizzBuzz.cpp
+c:\users\john g settineri\source\repos\consoleapplication1\consoleapplication1\fizzbuzz.cpp(24): error C2062: type 'int' unexpected
+c:\users\john g settineri\source\repos\consoleapplication1\consoleapplication1\fizzbuzz.cpp(24): error C2065: 'end': undeclared identifier
+c:\users\john g settineri\source\repos\consoleapplication1\consoleapplication1\fizzbuzz.cpp(24): error C2059: syntax error: ')'
+c:\users\john g settineri\source\repos\consoleapplication1\consoleapplication1\fizzbuzz.cpp(26): error C2059: syntax error: 'if'
+c:\users\john g settineri\source\repos\consoleapplication1\consoleapplication1\fizzbuzz.cpp(27): error C2143: syntax error: missing ';' before '{'
+c:\users\john g settineri\source\repos\consoleapplication1\consoleapplication1\fizzbuzz.cpp(30): error C2181: illegal else without matching if
+c:\users\john g settineri\source\repos\consoleapplication1\consoleapplication1\fizzbuzz.cpp(40): error C2059: syntax error: '}'
+c:\users\john g settineri\source\repos\consoleapplication1\consoleapplication1\fizzbuzz.cpp(40): error C2143: syntax error: missing ';' before '}'
